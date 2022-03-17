@@ -9,3 +9,13 @@ Integrantes del Equipo:
                      2 Reynoso Manzanare, Federico Hernan  (Supervisor de Planta)
                      3 Ortiz Suarez, Javier Orlando (Supervisor de Planta)
                      4 Ré, Pablo Gustavo (Programador, Web developer)
+
+
+
+Temática de la tienda:
+                     Venta de bebidas alcohólicas y envíos a domicilio.
+
+Audiencia:
+                     Mayores de edad
+                     Residentes en Argentina
+                     Consumidores de bebidas alcohólicas
