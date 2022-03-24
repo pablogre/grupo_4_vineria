@@ -23,3 +23,16 @@ Audiencia:
 
 Oferta:
                      Crear un sitio web intuitivo y que se ajuste a las necesidades y gustos de cada cliente.
+
+
+Sitios de interes 
+
+https://www.fullescabio.com/_DisplayType_G_Discount_01-100_NoIndex_True
+
+criterio:  promom, estetica. 
+
+https://www.gobar.com.ar/mendoza
+criterio: estetica, funcionalidad.
+
+
+
