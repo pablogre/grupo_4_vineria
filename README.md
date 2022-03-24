@@ -32,7 +32,7 @@ https://www.fullescabio.com/_DisplayType_G_Discount_01-100_NoIndex_True
 criterio:  promom, estetica. 
 
 https://www.gobar.com.ar/mendoza
-criterio: estetica, funcionalidad.
-
-
+criterio: estetica, funciondad.
+chicos  s  estuvimos viendo con Javi  ( Fede)  estas paginas como y anotamos algunas ideas para tratar en la reunio. 
+  
 
