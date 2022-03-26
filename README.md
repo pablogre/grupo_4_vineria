@@ -34,5 +34,8 @@ criterio:  promom, estetica.
 https://www.gobar.com.ar/mendoza
 criterio: estetica, funciondad.
 chicos  s  estuvimos viendo con Javi  ( Fede)  estas paginas como y anotamos algunas ideas para tratar en la reunio. 
+
+Modelo wireframe
+https://wireframe.cc/hTEiuh
   
 
