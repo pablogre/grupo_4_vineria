@@ -36,6 +36,6 @@ criterio: estetica, funciondad.
 chicos  s  estuvimos viendo con Javi  ( Fede)  estas paginas como y anotamos algunas ideas para tratar en la reunio. 
 
 Modelo wireframe
-https://wireframe.cc/hTEiuh
+https://github.com/pablogre/grupo_4_vineria/blob/d2e28fdba0dac09772a7cc3137ea0e7d21d909f0/wireframes/WireFrame%20Tienda%2030-03-2022.pdf
   
 
